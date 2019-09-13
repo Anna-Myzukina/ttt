@@ -20,15 +20,11 @@
 Name of solution | Project on github
 --- | --- 
 Reading Error Messages | [reading-error-messages-ruby](https://github.com/Anna-Myzukina ruby-lecture-reading-error-messages-ruby-intro-000) 
-
 TDD, Rspec, and Learn | [intro-to-tdd-rspec-and-learn-ruby](https://github.com/Anna-Myzukina/intro-to-tdd-rspec-and-learn-ruby-intro-000)
-
 Debugging/my first ruby gem | [frgom](https://github.com/Anna-Myzukina/frgom)
-
 Interpolation Super Power | [interpolation-super-power-ruby](https://github.com/Anna-Myzukina/interpolation-super-power-ruby-intro-000)
- | 
- | 
- | 
- | 
-
+solution | my project
+solution | my project
+solution | my project
+solution | my project
 
